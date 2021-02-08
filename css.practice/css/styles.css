@@ -1,0 +1,37 @@
+ul {
+    color: red;
+}
+html {
+    font-size: 22px;
+    font-family: "'Merriweather', serif;";
+}
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+p,li {
+    font-size: 20;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+html {
+    background-color: rgb(94, 96, 219);
+}
+body {
+    width: 800px;
+    margin: 0 auto;
+    background-color: rgb(177, 177, 177);
+    padding: 0 20px 20px 20px;
+    border: 3px solid black;
+}
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: red;
+    text-shadow: 1.5px 2px 1px black;
+  }
+  img {
+      display: block;
+      margin: auto;
+  }
+  
